@@ -1,2 +1,2 @@
-- <a rel="me nofollow" href="https://econtwitter.net/@emraher">Mastodon</a>
+- <a rel="me nofollow" href="https://econtwitter.net/@emraher">Mastodon: https://econtwitter.net/@emraher</a>
 - <a href="https://twitter.com/emrah_er">Twitter</a> 
